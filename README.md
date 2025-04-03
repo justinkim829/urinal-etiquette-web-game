@@ -15,19 +15,24 @@ Disclaimer: This game is meant to be humorous and is not intended to offend anyo
 _____________________________________________________________
 
 **Game features**
+
 Realistic urinal selection scenarios
+
 Score tracking and performance analysis
+
 Humorous feedback for poor choices
+
 Global leaderboard to compare your skills
+
 "Gender determination" based on your performance
 
 🛠️ **Technologies Used**
 
 React.js for the frontend, Node.js for backend
+
 Firebase Authentication for user management
+
 Firebase Realtime Database for leaderboard and username uniqueness
-Custom SVG animations for visual effects
-Web Audio API for sound effects and background music
 
 _______________________________________________________________________
 _______________________________________________________________________
