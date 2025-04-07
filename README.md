@@ -8,7 +8,8 @@ Play at: https://www.knowwheretopee.com
 🚽 **About the Game**
 
 
-"Only Real Men Know Where to Pee" is a lighthearted web game that challenges players to correctly choose the optimal urinal position based on current bathroom occupancy. Following proper bathroom etiquette is essential - maintain maximum distance between occupants while avoiding awkward situations!
+"Only Real Men Know Where to Pee" is a lighthearted web game that challenges players to correctly choose the optimal urinal position based on current bathroom occupancy. 
+Following proper bathroom etiquette is essential - maintain maximum distance between occupants while avoiding awkward situations
 
 
 Disclaimer: This game is meant to be humorous and is not intended to offend anyone. It's a lighthearted take on a social phenomenon. Please enjoy responsibly!
@@ -42,8 +43,11 @@ For the very very few people who might be interested in the Urinal Selection Alg
 The fundamental principles appear to be:
 
 Primary Rule: Choose an empty urinal with no occupied neighbors if possible
+
 Secondary Rule: If all empty urinals have at least one neighbor, it's still acceptable to choose one
+
 Tertiary Rule: Choose the position that creates the best future arrangement for subsequent people
+
 Final Rule: Only wait if absolutely all urinals are occupied
 
 
