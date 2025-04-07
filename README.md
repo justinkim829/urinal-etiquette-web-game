@@ -15,18 +15,6 @@ Following proper bathroom etiquette is essential - maintain maximum distance bet
 Disclaimer: This game is meant to be humorous and is not intended to offend anyone. It's a lighthearted take on a social phenomenon. Please enjoy responsibly!
 _____________________________________________________________
 
-**Game features**
-
-Realistic urinal selection scenarios
-
-Score tracking and performance analysis
-
-Humorous feedback for poor choices
-
-Global leaderboard to compare your skills
-
-"Gender determination" based on your performance
-
 🛠️ **Technologies Used**
 
 React.js for the frontend, Node.js for backend
