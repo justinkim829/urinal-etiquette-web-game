@@ -23,6 +23,8 @@ Firebase Authentication for user management
 
 Firebase Realtime Database for leaderboard and username uniqueness
 
+Built over one night
+
 _______________________________________________________________________
 _______________________________________________________________________
 
