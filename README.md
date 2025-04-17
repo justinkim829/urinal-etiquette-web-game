@@ -8,7 +8,7 @@ Play at: https://www.knowwheretopee.com
 🚽 **About the Game**
 
 
-"Only Real Men Know Where to Pee" is a lighthearted web game that challenges players to correctly choose the optimal urinal position based on current bathroom occupancy. 
+Built over one night, "Only Real Men Know Where to Pee" is a lighthearted web game that challenges players to correctly choose the optimal urinal position based on current bathroom occupancy. 
 Following proper bathroom etiquette is essential - maintain maximum distance between occupants while avoiding awkward situations
 
 
@@ -22,8 +22,6 @@ React.js for the frontend, Node.js for backend
 Firebase Authentication for user management
 
 Firebase Realtime Database for leaderboard and username uniqueness
-
-Built over one night
 
 _______________________________________________________________________
 _______________________________________________________________________
